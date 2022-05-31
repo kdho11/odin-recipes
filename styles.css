@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    display:block;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    background-color: lightblue
+}
+
